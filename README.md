@@ -13,3 +13,8 @@ Task Manager is an efficient tool to organize, prioritize and track your daily t
 * ⚡ **Lightweight and Fast** : Optimized for smooth and fast performance.
 * 🌍 **Cross Browser Compatible** : Works consistently across all modern browsers.
 * 🔧 **Easy Integration** : Simple setup and integration with existing projects or as a standalone app.
+
+ ---
+ 
+## 🖼️ Screenshot
+<img width="1919" height="935" alt="Screenshot 2026-05-30 102327" src="https://github.com/user-attachments/assets/23245ab3-046d-4a11-90f7-03cc651c5af9" />
